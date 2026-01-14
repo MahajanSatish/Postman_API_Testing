@@ -1,0 +1,20 @@
+[
+	{
+		 "F_Name":"Postman",
+		 "L_Name":"Postman"
+
+	},
+
+	{
+		 "F_Name":"API Testing",
+		 "L_Name":"RestAssured"
+
+	},
+	{
+		 "F_Name":"DataBase",
+		 "L_Name":"SQL"
+
+	}
+
+
+]
